@@ -1,0 +1,31 @@
+- qid: 1
+  usabo_category: []
+  categories: []
+  refs:
+    - book: campbell
+      chapter_id: 5
+- qid: 2
+  usabo_category: ["gen"]
+  categories:
+    - genetics
+    - evolution
+  ref: []
+- qid: 3
+  usabo_category: []
+  categories:
+    - proteins
+  ref: []
+- qid: 4
+  usabo_category: []
+  categories:
+    - physiology
+    - neuroscience
+- qid: 5
+- qid: 6
+  usabo_category: ["cmb"]
+  categories:
+    - cell biology
+  refs:
+    - book: lehninger
+      chapter_id: 7
+- qid:
